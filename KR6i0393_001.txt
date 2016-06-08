@@ -1,27 +1,22 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:17:56.998528
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:50
 #+TITLE: 溫室經疏
 #+PROPERTY: CBETA_ID T85n2780
 #+PROPERTY: ID KR6i0393
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 85, No. 2780
 #+PROPERTY: VOL 85
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6i0393_T_000-0536c>¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0393_T_001-0536c> ¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.2780[cf.No.701]¶
-
- 溫室經疏¶
+No. 2780 [cf. No. 701]¶
+溫室經疏¶
 ¶
 
-溫室序
-:PROPERTIES:
-:head: 溫室序
-:END:
-¶
+* 溫室序¶
 
 夫溫室經者。斯乃積淨業之善基。蕩塵累之¶
 津澤。跨天堂之梯橙越苦海之舟航。囊括因¶
@@ -161,7 +156,7 @@ No.2780[cf.No.701]¶
 經曰願令眾生長夜清淨垢穢消除不遭眾患¶
 　通曰。發願也。引之與願二事相行。猶車¶
 之兩輪。鳥之二翼。陸載空飛。闕一不可。所¶
-以請行復須發願。願行。此願普洽黔黎。長祛¶
+以請行復須發願。願行。此願普洽黔黎。長袪¶
 垢累之惱。永安輕利之泰。¶
 
 經曰唯佛聖旨不忽所願　通曰。此乞恩也。¶
@@ -173,7 +168,7 @@ No.2780[cf.No.701]¶
 之念。故能標心淨業來遊問道。此真妙意故。¶
 讚善哉也。¶
 
-經曰治眾人病皆蒙除愈遠近慶賴莫不歡喜¶
+經曰治眾人病皆蒙除愈遠近慶賴莫不歎喜¶
 　通曰。此述舊業也。預是有身誰能無患。繼¶
 沾有識誰不畏苦。祇域既能使藥石纔通。即¶
 轉苦為樂。針艾亦進即變夭為修。故已治者
