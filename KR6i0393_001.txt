@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:17:56.998528
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:50
 #+TITLE: 溫室經疏
 #+PROPERTY: CBETA_ID T85n2780
 #+PROPERTY: ID KR6i0393
@@ -17,7 +17,7 @@ No.2780[cf.No.701]¶
  溫室經疏¶
 ¶
 
-溫室序
+* 溫室序
 :PROPERTIES:
 :head: 溫室序
 :END:
